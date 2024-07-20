@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Charbel Abi Hana, originally from Beirut - Lebanon, currently in Munich - Germany. <br><br>- 🔭 I’m working as a Associate Software Engineer @ Innovation Lab in [idealworks GmbH](https://idealworks.com/en/). I mainly do vision AI on a transport robot. <br>- 🚀 Interested in space and astrophysics</p>
+<p align="left">I'm Charbel Abi Hana, originally from Beirut - Lebanon, currently in Munich - Germany. <br><br>- 🔭 I’m working as a Associate Software Engineer @ Innovation Lab in idealworks GmbH. I mainly do vision AI on a transport robot. <br>- 🚀 Interested in space and astrophysics</p>
 
 ###
 
