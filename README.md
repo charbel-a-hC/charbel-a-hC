@@ -70,7 +70,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=charbel-a-hC&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=charbel-a-hC&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
